@@ -1,5 +1,8 @@
 # pyresttest
-Dockerfile for pyresttest
+
+Dockerfile for pyresttest.
+
+Also nodejs it's added to facilitate scripting execution in javascript.
 
 ## How to use
 
